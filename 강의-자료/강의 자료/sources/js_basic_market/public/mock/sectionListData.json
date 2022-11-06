@@ -1,0 +1,115 @@
+{
+  "sectionInfoList": [
+    {
+      "sectionTitel": "인기 상품",
+      "productList": [
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 1,
+          "name": "파프리카",
+          "discountPercent": 20,
+          "price": 2000,
+          "orignalPrice": 2500
+        },
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 2,
+          "name": "파프리카",
+          "discountPercent": 20,
+          "price": 2000,
+          "orignalPrice": 2500
+        },
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 3,
+          "name": "파프리카",
+          "discountPercent": 20,
+          "price": 2000,
+          "orignalPrice": 2500
+        },
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 4,
+          "name": "파프리카",
+          "discountPercent": 20,
+          "price": 2000,
+          "orignalPrice": 2500
+        }
+      ]
+    },
+    {
+      "sectionTitel": "핫딜 상품",
+      "productList": [
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 5,
+          "name": "노랑파프리카",
+          "discountPercent": 50,
+          "price": 1250,
+          "orignalPrice": 2500
+        },
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 6,
+          "name": "노랑파프리카",
+          "discountPercent": 50,
+          "price": 1250,
+          "orignalPrice": 2500
+        },
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 7,
+          "name": "노랑파프리카",
+          "discountPercent": 50,
+          "price": 1250,
+          "orignalPrice": 2500
+        },
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 8,
+          "name": "노랑파프리카",
+          "discountPercent": 50,
+          "price": 1250,
+          "orignalPrice": 2500
+        }
+      ]
+    },
+    {
+      "sectionTitel": "새로 들어온 상품",
+      "productList": [
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 9,
+          "name": "빨간파프리카",
+          "discountPercent": 10,
+          "price": 2250,
+          "orignalPrice": 2500
+        },
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 10,
+          "name": "빨간파프리카",
+          "discountPercent": 10,
+          "price": 2250,
+          "orignalPrice": 2500
+        },
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 11,
+          "name": "빨간파프리카",
+          "discountPercent": 10,
+          "price": 2250,
+          "orignalPrice": 2500
+        },
+        {
+          "imgSrc": "./public/assets/파프리카.jpg",
+          "id": 12,
+          "name": "빨간파프리카",
+          "discountPercent": 10,
+          "price": 2250,
+          "orignalPrice": 2500
+        }
+      ]
+    }
+  ]
+}
