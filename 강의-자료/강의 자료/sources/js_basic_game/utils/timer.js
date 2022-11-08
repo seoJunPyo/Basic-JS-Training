@@ -1,5 +1,5 @@
 const timerDOM = document.getElementsByClassName("game-time")[0];
-const MAX_TIME = 3600 * 24;
+const MAX_TIME = 10;
 let time = 0;
 let timerId = null;
 
@@ -15,7 +15,7 @@ const covertToTwoNumber = (n) => {
   }
 };
 
-const getTimeString = (time) => {
+export const getTimeString = (time) => {
   const hour = Math.floor(time / 3600);
   time = time - hour * 3600;
   const minute = Math.floor(time / 60);
